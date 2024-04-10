@@ -1,0 +1,691 @@
+species	500A	501A	502A	503A	504A	505A	506A	507A	508A	509A	510A	511A	512A	513A	514A	515A
+k  Archaea|p  Candidatus Thermoplasmatota|c  Thermoplasmata|o  Methanomassiliicoccales|f  Methanomassiliicoccaceae|g  Methanomassiliicoccaceae unclassified|s  Methanomassiliicoccaceae unclassified SGB380	0.0	3299.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Archaea|p  Euryarchaeota|c  Methanobacteria|o  Methanobacteriales|f  Methanobacteriaceae|g  Methanobrevibacter|s  Methanobrevibacter smithii	431.0	157290.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1695.0	0.0	0.0	0.0	0.0	47944.0	0.0
+k  Archaea|p  Thaumarchaeota|c  Thaumarchaeota unclassified|o  Nitrosopumilales|f  Nitrosopumilaceae|g  Nitrosopumilus|s  Nitrosopumilus SGB14899	0.0	0.0	0.0	0.0	17148.0	2142.0	266.0	0.0	0.0	0.0	10904.0	0.0	1540.0	0.0	10190.0	6108.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Actinomycetales|f  Actinomycetaceae|g  Actinomyces|s  Actinomyces SGB17154	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	335.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Actinomycetales|f  Actinomycetaceae|g  Fannyhessea|s  Fannyhessea vaginae	0.0	0.0	0.0	780.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Actinomycetales|f  Actinomycetaceae|g  GGB79819|s  GGB79819 SGB4702	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	362.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Actinomycetales|f  Actinomycetaceae|g  GGB9832|s  GGB9832 SGB15478	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6416.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Actinomycetales|f  Actinomycetaceae|g  Schaalia|s  Schaalia turicensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4820.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  Bifidobacterium|s  Bifidobacterium adolescentis	4350.0	12451.0	0.0	0.0	45062.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	63419.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  Bifidobacterium|s  Bifidobacterium animalis	0.0	0.0	0.0	0.0	9347.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  Bifidobacterium|s  Bifidobacterium bifidum	6218.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8211.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  Bifidobacterium|s  Bifidobacterium dentium	1601.0	1684.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  Bifidobacterium|s  Bifidobacterium longum	1855.0	9145.0	0.0	0.0	0.0	0.0	13304.0	0.0	5095.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  Bifidobacterium|s  Bifidobacterium pseudocatenulatum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2212.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Bifidobacteriales|f  Bifidobacteriaceae|g  GGB9529|s  GGB9529 SGB53518	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1422.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Corynebacteriales|f  Corynebacteriaceae|g  Corynebacterium|s  Corynebacterium SGB6370	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	632.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Corynebacteriales|f  Corynebacteriaceae|g  GGB6016|s  GGB6016 SGB8648	0.0	0.0	0.0	0.0	942.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Micrococcales|f  Microbacteriaceae|g  Cryobacterium|s  Cryobacterium SGB4870	0.0	0.0	0.0	0.0	2982.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Micrococcales|f  Micrococcaceae|g  Rothia|s  Rothia mucilaginosa	0.0	441.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Micrococcales|f  Promicromonosporaceae|g  Isoptericola|s  Isoptericola variabilis	260.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Actinomycetia|o  Micrococcales|f  Sanguibacteraceae|g  Sanguibacter|s  Sanguibacter SGB15121	0.0	4835.0	1765.0	1104.0	0.0	1988.0	0.0	0.0	0.0	0.0	0.0	0.0	26529.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  CFGB12107|o  OFGB12107|f  FGB12107|g  GGB34797|s  GGB34797 SGB14322	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2397.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  CFGB2987|o  OFGB2987|f  FGB2987|g  GGB9359|s  GGB9359 SGB14334	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19961.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  CFGB2987|o  OFGB2987|f  FGB2987|g  GGB9361|s  GGB9361 SGB14336	0.0	0.0	1152.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  CFGB76796|o  OFGB76796|f  FGB76796|g  GGB9369|s  GGB9369 SGB14350	0.0	68.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Atopobiaceae|g  Atopobium|s  Atopobium SGB47944	0.0	0.0	0.0	0.0	18.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Atopobiaceae|g  Atopobium|s  Atopobium massiliense	0.0	0.0	0.0	124.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Atopobiaceae|g  GGB74708|s  GGB74708 SGB54312	0.0	0.0	0.0	0.0	0.0	0.0	34345.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Atopobiaceae|g  Olsenella|s  Olsenella sp AF16 14LB	37627.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella SGB14861	9981.0	0.0	1610.0	9810.0	140729.0	0.0	52665.0	27865.0	0.0	416.0	33287.0	0.0	250952.0	7309.0	4733.0	84894.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella SGB4121	0.0	2639.0	3789.0	10637.0	30987.0	0.0	0.0	0.0	0.0	614.0	30365.0	73046.0	41701.0	0.0	0.0	27245.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella SGB4668	0.0	0.0	0.0	0.0	0.0	16917.0	374.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella SGB62935	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3466.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella aerofaciens	6541.0	23393.0	53260.0	0.0	0.0	0.0	0.0	40086.0	0.0	36476.0	0.0	96311.0	0.0	22762.0	29367.0	8225.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella sp AF08 23	442.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella stercoris	0.0	1311.0	0.0	0.0	0.0	10418.0	133769.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Collinsella|s  Collinsella tanakaei	0.0	0.0	0.0	74920.0	0.0	9500.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Enorma|s  Enorma massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	73725.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Coriobacteriales|f  Coriobacteriaceae|g  Senegalimassilia|s  Senegalimassilia anaerobia	0.0	5114.0	1880.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3549.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Adlercreutzia|s  Adlercreutzia caecimuris	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	288.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Adlercreutzia|s  Adlercreutzia equolifaciens	0.0	0.0	0.0	1904.0	12425.0	0.0	0.0	86143.0	4485.0	0.0	0.0	10406.0	29696.0	0.0	3355.0	3037.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Eggerthellaceae unclassified|s  Eggerthellaceae bacterium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2992.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Eggerthella|s  Eggerthella lenta	0.0	1177.0	0.0	12092.0	6758.0	7362.0	70999.0	54135.0	0.0	0.0	9287.0	83142.0	41935.0	3130.0	0.0	16160.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Enteroscipio|s  Enteroscipio rubneri	0.0	0.0	0.0	0.0	0.0	0.0	0.0	91326.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  GGB45432|s  GGB45432 SGB63101	0.0	0.0	0.0	0.0	4488.0	0.0	46344.0	0.0	0.0	0.0	6740.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  GGB4684|s  GGB4684 SGB6478	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	147891.0	281648.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Gordonibacter|s  Gordonibacter pamelaeae	0.0	0.0	0.0	0.0	0.0	0.0	35356.0	0.0	0.0	0.0	1542.0	35173.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Gordonibacter|s  Gordonibacter sp An232A	0.0	0.0	0.0	0.0	0.0	0.0	0.0	24167.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Gordonibacter|s  Gordonibacter urolithinfaciens	0.0	0.0	0.0	0.0	0.0	1368.0	3271.0	111157.0	0.0	0.0	0.0	0.0	9648.0	0.0	500.0	2886.0
+k  Bacteria|p  Actinobacteria|c  Coriobacteriia|o  Eggerthellales|f  Eggerthellaceae|g  Slackia|s  Slackia isoflavoniconvertens	0.0	8416.0	1091.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteria unclassified|c  CFGB2992|o  OFGB2992|f  FGB2992|g  GGB79890|s  GGB79890 SGB14770	0.0	0.0	0.0	0.0	3772.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2905.0	0.0
+k  Bacteria|p  Bacteria unclassified|c  CFGB76763|o  OFGB76763|f  FGB76763|g  GGB79973|s  GGB79973 SGB14341	437.0	0.0	0.0	0.0	6001.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5226.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides caccae	97041.0	0.0	343966.0	0.0	350882.0	0.0	524375.0	111110.0	89882.0	171908.0	0.0	85912.0	0.0	321405.0	13566.0	39534.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides caecicola	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	391590.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides cellulosilyticus	0.0	14733.0	0.0	0.0	0.0	0.0	158367.0	202660.0	260318.0	88173.0	0.0	9078.0	0.0	117136.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides eggerthii	1923.0	0.0	0.0	0.0	1008335.0	0.0	0.0	0.0	0.0	0.0	0.0	342866.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides faecis	0.0	0.0	290781.0	782541.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1220314.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides finegoldii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	99340.0	0.0	0.0	13969.0	0.0	0.0	55691.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides fragilis	354.0	128109.0	0.0	0.0	2434.0	0.0	210658.0	262349.0	0.0	0.0	142762.0	0.0	0.0	24685.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides gallinarum	0.0	1508.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides intestinalis	65348.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	774539.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides nordii	0.0	0.0	0.0	0.0	17775.0	0.0	0.0	0.0	0.0	3643.0	0.0	0.0	0.0	0.0	2462.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides ovatus	32837.0	404224.0	158688.0	271398.0	24623.0	3006132.0	24526.0	0.0	727955.0	239294.0	2094519.0	18228.0	4073271.0	1836137.0	8235.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides salyersiae	0.0	0.0	83195.0	177558.0	0.0	0.0	0.0	0.0	256208.0	0.0	0.0	34227.0	0.0	237121.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides sp AF39 11AC	0.0	75.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides stercoris	251979.0	538379.0	2216092.0	874118.0	1033077.0	0.0	0.0	0.0	2946260.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides thetaiotaomicron	163095.0	326442.0	0.0	0.0	94839.0	0.0	0.0	0.0	64921.0	119738.0	436445.0	22391.0	45837.0	17657.0	107003.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides uniformis	3793315.0	1024198.0	1214826.0	1776394.0	2012864.0	1747743.0	160427.0	241717.0	778976.0	3149433.0	1371695.0	279249.0	3671949.0	2154184.0	278853.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Bacteroides|s  Bacteroides xylanisolvens	92525.0	229630.0	89493.0	0.0	105455.0	0.0	25467.0	37811.0	2139.0	0.0	0.0	0.0	0.0	0.0	62796.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Phocaeicola|s  Phocaeicola coprophilus	898430.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Phocaeicola|s  Phocaeicola dorei	1207.0	0.0	0.0	0.0	0.0	0.0	243110.0	401084.0	0.0	2022430.0	5209221.0	392409.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Phocaeicola|s  Phocaeicola massiliensis	0.0	0.0	0.0	721967.0	543598.0	0.0	0.0	0.0	514674.0	0.0	0.0	0.0	0.0	0.0	57821.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Phocaeicola|s  Phocaeicola plebeius	348981.0	887809.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2787900.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Bacteroidaceae|g  Phocaeicola|s  Phocaeicola vulgatus	923955.0	1868431.0	1982837.0	1576006.0	1358645.0	3257291.0	61786.0	21053.0	1983936.0	0.0	0.0	0.0	1483746.0	1796731.0	321311.0	6405092.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Barnesiellaceae|g  Barnesiella|s  Barnesiella intestinihominis	40638.0	281688.0	0.0	0.0	0.0	0.0	57940.0	0.0	0.0	122736.0	0.0	28039.0	0.0	0.0	230326.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Barnesiellaceae|g  Coprobacter|s  Coprobacter fastidiosus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	145066.0	0.0	0.0	0.0	0.0	2755.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Butyricimonas|s  Butyricimonas SGB15260	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	44.0	0.0	0.0	49788.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Butyricimonas|s  Butyricimonas SGB15266	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	709686.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Butyricimonas|s  Butyricimonas faecihominis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	36451.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Butyricimonas|s  Butyricimonas paravirosa	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17267.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Butyricimonas|s  Butyricimonas virosa	0.0	0.0	0.0	33185.0	0.0	0.0	0.0	0.0	0.0	53737.0	0.0	0.0	49288.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Odoribacter|s  Odoribacter laneus	0.0	0.0	0.0	2684.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Odoribacteraceae|g  Odoribacter|s  Odoribacter splanchnicus	9386.0	0.0	17786.0	0.0	43842.0	0.0	0.0	29514.0	0.0	94313.0	0.0	8348.0	0.0	47288.0	25541.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas SGB1977	0.0	0.0	0.0	0.0	0.0	0.0	0.0	30587.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas SGB1980	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4312.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas SGB1982	0.0	0.0	0.0	0.0	0.0	0.0	315.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas asaccharolytica	0.0	0.0	0.0	0.0	0.0	0.0	10735.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas somerae	0.0	0.0	0.0	0.0	0.0	0.0	0.0	433.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas sp HMSC065F10	0.0	0.0	0.0	0.0	0.0	0.0	1232.0	120.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Porphyromonadaceae|g  Porphyromonas|s  Porphyromonas uenonis	0.0	0.0	0.0	896.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Prevotellaceae|g  Prevotella|s  Prevotella bivia	0.0	0.0	0.0	10506.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Prevotellaceae|g  Prevotella|s  Prevotella buccalis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1998.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Prevotellaceae|g  Prevotella|s  Prevotella copri clade A	3331633.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Prevotellaceae|g  Prevotella|s  Prevotella stercorea	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19508.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes SGB2313	0.0	0.0	0.0	0.0	258808.0	0.0	0.0	0.0	0.0	0.0	0.0	12177.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes communis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	20224.0	110643.0	0.0	23463.0	0.0	21595.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes dispar	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	36935.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes finegoldii	3058.0	0.0	0.0	0.0	132228.0	0.0	0.0	50754.0	0.0	0.0	194224.0	0.0	204514.0	94747.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes ihumii	28170.0	27597.0	8755.0	6121.0	0.0	0.0	0.0	0.0	0.0	19953.0	31167.0	68087.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes indistinctus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9064.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes onderdonkii	9378.0	378252.0	0.0	0.0	21401.0	875271.0	702057.0	0.0	345246.0	251862.0	138870.0	0.0	0.0	0.0	847200.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes putredinis	112665.0	0.0	200992.0	125687.0	385216.0	0.0	0.0	38865.0	412218.0	644427.0	0.0	0.0	107974.0	0.0	667404.0	559446.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  Alistipes|s  Alistipes shahii	21173.0	0.0	51167.0	0.0	144636.0	0.0	0.0	36998.0	0.0	48919.0	164909.0	0.0	0.0	0.0	79818.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  GGB1663|s  GGB1663 SGB2279	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16673.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  GGB3277|s  GGB3277 SGB4327	0.0	0.0	0.0	0.0	0.0	0.0	8924.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Rikenellaceae|g  GGB79652|s  GGB79652 SGB15211	0.0	0.0	0.0	0.0	68200.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Tannerellaceae|g  Parabacteroides|s  Parabacteroides distasonis	743216.0	0.0	24607.0	0.0	218310.0	0.0	0.0	116842.0	413786.0	61965.0	99202.0	0.0	0.0	527633.0	180610.0	617319.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Tannerellaceae|g  Parabacteroides|s  Parabacteroides faecis	0.0	0.0	0.0	118270.0	0.0	0.0	0.0	0.0	20990.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Tannerellaceae|g  Parabacteroides|s  Parabacteroides goldsteinii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	144096.0	0.0	17193.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Tannerellaceae|g  Parabacteroides|s  Parabacteroides johnsonii	0.0	20235.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Bacteroidia|o  Bacteroidales|f  Tannerellaceae|g  Parabacteroides|s  Parabacteroides merdae	79582.0	148134.0	106563.0	62644.0	0.0	0.0	229595.0	43508.0	163818.0	166230.0	0.0	68601.0	214500.0	0.0	372.0	0.0
+k  Bacteria|p  Bacteroidetes|c  CFGB59744|o  OFGB59744|f  FGB59744|g  GGB59744|s  GGB59744 SGB2275	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	409.0	0.0
+k  Bacteria|p  Bacteroidetes|c  CFGB602|o  OFGB602|f  FGB602|g  GGB1421|s  GGB1421 SGB1958	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	10145.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  CFGB618|o  OFGB618|f  FGB618|g  GGB1456|s  GGB1456 SGB2019	0.0	0.0	0.0	0.0	0.0	0.0	0.0	77.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Bacteroidetes|c  Flavobacteriia|o  Flavobacteriales|f  Flavobacteriaceae|g  GGB80055|s  GGB80055 SGB4053	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	828.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Candidatus Saccharibacteria|c  Candidatus Saccharibacteria unclassified|o  Candidatus Saccharibacteria unclassified|f  Candidatus Saccharibacteria unclassified|g  Candidatus Saccharibacteria unclassified|s  TM7 phylum sp oral taxon 352	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	377.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Bacillales|f  Staphylococcaceae|g  GGB4659|s  GGB4659 SGB6447	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1234885.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Bacillales|f  Staphylococcaceae|g  GGB58233|s  GGB58233 SGB79883	0.0	0.0	0.0	0.0	0.0	0.0	698.0	0.0	0.0	0.0	602.0	161.0	700.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Bacillales|f  Staphylococcaceae|g  Staphylococcus|s  Staphylococcus SGB6340	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	171929.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Carnobacteriaceae|g  Granulicatella|s  Granulicatella SGB8255	0.0	311.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  Enterococcus|s  Enterococcus SGB6173	0.0	10085.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3088.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  Enterococcus|s  Enterococcus faecalis	0.0	2483.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  GGB33512|s  GGB33512 SGB15201	0.0	0.0	0.0	0.0	0.0	0.0	283391.0	0.0	0.0	2395.0	5292.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  GGB33512|s  GGB33512 SGB15203	0.0	0.0	0.0	0.0	219324.0	0.0	0.0	313399.0	0.0	0.0	0.0	6594.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  GGB35551|s  GGB35551 SGB53794	0.0	0.0	0.0	0.0	561.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  GGB9582|s  GGB9582 SGB4865	0.0	0.0	0.0	0.0	52028.0	31442.0	3840.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Enterococcaceae|g  GGB9694|s  GGB9694 SGB15204	0.0	5861.0	0.0	0.0	96540.0	0.0	0.0	0.0	0.0	0.0	9073.0	47410.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  GGB4566|s  GGB4566 SGB6305	0.0	0.0	26057.0	0.0	38986.0	0.0	85886.0	3505.0	0.0	0.0	0.0	0.0	0.0	0.0	62974.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  GGB78781|s  GGB78781 SGB106569	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	213158.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  GGB9522|s  GGB9522 SGB14921	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	233.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  GGB9602|s  GGB9602 SGB15028	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2453.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  GGB9602|s  GGB9602 SGB15031	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8609.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Lacticaseibacillus|s  Lacticaseibacillus paracasei	0.0	4846.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Lactobacillus|s  Lactobacillus delbrueckii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1630.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Lactobacillus|s  Lactobacillus gasseri	3222.0	4041.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Lactobacillus|s  Lactobacillus iners	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	378.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Limosilactobacillus|s  Limosilactobacillus fermentum	0.0	439.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Limosilactobacillus|s  Limosilactobacillus portuensis	1956.0	16534.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Lactobacillaceae|g  Limosilactobacillus|s  Limosilactobacillus reuteri	14232.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  GGB45491|s  GGB45491 SGB63163	0.0	0.0	0.0	0.0	103.0	0.0	245.0	23194.0	0.0	0.0	5816.0	1699.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  GGB9501|s  GGB9501 SGB14898	0.0	2502.0	297.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	433.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Lactococcus|s  Lactococcus lactis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	681.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus SGB14036	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3793.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus SGB14137	0.0	0.0	0.0	0.0	0.0	1360.0	0.0	0.0	0.0	0.0	0.0	33350.0	0.0	0.0	0.0	10532.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus SGB14888	0.0	21.0	661.0	0.0	0.0	2828.0	0.0	0.0	0.0	0.0	5172.0	0.0	12824.0	0.0	2368.0	6140.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus SGB15012	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3745.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus SGB47641	0.0	0.0	0.0	0.0	0.0	9367.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus SGB5805	63385.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus gordonii	1627.0	0.0	0.0	0.0	0.0	274.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus lutetiensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13146.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus mitis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	421.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus mutans	191.0	10442.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus oralis	0.0	1795.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus parasanguinis	9347.0	32407.0	0.0	223.0	0.0	0.0	0.0	412.0	0.0	0.0	0.0	3188.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus salivarius	13350.0	110744.0	65.0	0.0	0.0	0.0	0.0	1511.0	0.0	0.0	1982.0	23261.0	0.0	0.0	1906.0	542.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus thermophilus	0.0	0.0	0.0	3150.0	0.0	21187.0	0.0	78041.0	0.0	0.0	0.0	71122.0	170.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Bacilli|o  Lactobacillales|f  Streptococcaceae|g  Streptococcus|s  Streptococcus vestibularis	7733.0	5108.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1037.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1011|o  OFGB1011|f  FGB1011|g  GGB2653|s  GGB2653 SGB3574	1607.0	0.0	0.0	0.0	2783.0	461.0	1000.0	439.0	6938.0	2443.0	17787.0	10975.0	0.0	0.0	13359.0	3137.0
+k  Bacteria|p  Firmicutes|c  CFGB1126|o  OFGB1126|f  FGB1126|g  GGB2848|s  GGB2848 SGB3813	710.0	725.0	0.0	0.0	0.0	0.0	50678.0	175295.0	0.0	0.0	5508.0	384.0	15009.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1211|o  OFGB1211|f  FGB1211|g  GGB2970|s  GGB2970 SGB3952	0.0	0.0	0.0	0.0	2311.0	0.0	0.0	0.0	0.0	3674.0	7646.0	1833.0	0.0	0.0	22172.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1226|o  OFGB1226|f  FGB1226|g  GGB2998|s  GGB2998 SGB3988	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12016.0	4102.0
+k  Bacteria|p  Firmicutes|c  CFGB1227|o  OFGB1227|f  FGB1227|g  GGB2999|s  GGB2999 SGB3990	0.0	0.0	0.0	0.0	17547.0	0.0	0.0	37050.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1227|o  OFGB1227|f  FGB1227|g  GGB3000|s  GGB3000 SGB3991	0.0	0.0	0.0	0.0	0.0	0.0	56242.0	15562.0	0.0	0.0	19889.0	191058.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1227|o  OFGB1227|f  FGB1227|g  GGB3001|s  GGB3001 SGB3992	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	165268.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1227|o  OFGB1227|f  FGB1227|g  GGB3002|s  GGB3002 SGB3993	0.0	0.0	0.0	0.0	30718.0	0.0	0.0	87209.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1227|o  OFGB1227|f  FGB1227|g  GGB3004|s  GGB3004 SGB3995	0.0	0.0	0.0	0.0	0.0	33034.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1227|o  OFGB1227|f  FGB1227|g  GGB3005|s  GGB3005 SGB3996	1303.0	0.0	0.0	0.0	0.0	0.0	1842452.0	1002.0	0.0	0.0	68879.0	0.0	102197.0	0.0	4748.0	1880.0
+k  Bacteria|p  Firmicutes|c  CFGB1249|o  OFGB1249|f  FGB1249|g  GGB3033|s  GGB3033 SGB4029	0.0	0.0	0.0	0.0	17107.0	0.0	2891.0	0.0	0.0	1987.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1249|o  OFGB1249|f  FGB1249|g  GGB3034|s  GGB3034 SGB4030	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5325.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1260|o  OFGB1260|f  FGB1260|g  GGB3057|s  GGB3057 SGB4059	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9263.0	13829.0	1340.0
+k  Bacteria|p  Firmicutes|c  CFGB1262|o  OFGB1262|f  FGB1262|g  GGB3061|s  GGB3061 SGB4063	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1870.0	0.0	0.0	3775.0	5929.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1292|o  OFGB1292|f  FGB1292|g  GGB3109|s  GGB3109 SGB4119	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9591.0	3396.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1311|o  OFGB1311|f  FGB1311|g  GGB3142|s  GGB3142 SGB4155	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	30756.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1354|o  OFGB1354|f  FGB1354|g  GGB3304|s  GGB3304 SGB4367	0.0	18074.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	281977.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1359|o  OFGB1359|f  FGB1359|g  GGB3321|s  GGB3321 SGB4394	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	81637.0	1486.0
+k  Bacteria|p  Firmicutes|c  CFGB1360|o  OFGB1360|f  FGB1360|g  GGB3325|s  GGB3325 SGB4402	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	882.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1422|o  OFGB1422|f  FGB1422|g  GGB3486|s  GGB3486 SGB4658	0.0	49644.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1425|o  OFGB1425|f  FGB1425|g  GGB3491|s  GGB3491 SGB4665	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15822.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1436|o  OFGB1436|f  FGB1436|g  GGB3513|s  GGB3513 SGB4691	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1034.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1473|o  OFGB1473|f  FGB1473|g  GGB3730|s  GGB3730 SGB5060	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7640.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB14936|o  OFGB14936|f  FGB14936|g  GGB3256|s  GGB3256 SGB4303	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	60754.0	0.0	1550890.0	0.0	0.0	113312.0	147781.0
+k  Bacteria|p  Firmicutes|c  CFGB1507|o  OFGB1507|f  FGB1507|g  GGB3817|s  GGB3817 SGB5182	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2029.0	0.0	27938.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1507|o  OFGB1507|f  FGB1507|g  GGB3818|s  GGB3818 SGB5183	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1660.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1507|o  OFGB1507|f  FGB1507|g  GGB3819|s  GGB3819 SGB5184	1590.0	1146.0	97.0	24836.0	10965.0	5217.0	0.0	0.0	6208.0	5472.0	0.0	0.0	0.0	0.0	8621.0	8526.0
+k  Bacteria|p  Firmicutes|c  CFGB15209|o  OFGB15209|f  FGB15209|g  GGB9293|s  GGB9293 SGB14250	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	154.0	0.0	0.0	0.0	0.0	12375.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1538|o  OFGB1538|f  FGB1538|g  GGB3892|s  GGB3892 SGB5290	0.0	0.0	0.0	0.0	0.0	0.0	0.0	73939.0	0.0	0.0	305.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB1814|o  OFGB1814|f  FGB1814|g  GGB4802|s  GGB4802 SGB6641	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	261.0	0.0	0.0	0.0	2716.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2863|o  OFGB2863|f  FGB2863|g  GGB45495|s  GGB45495 SGB63167	0.0	0.0	0.0	0.0	0.0	0.0	11484.0	8121.0	0.0	0.0	0.0	1204.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB28775|o  OFGB28775|f  FGB28775|g  GGB3511|s  GGB3511 SGB4688	0.0	0.0	0.0	0.0	0.0	2059.0	0.0	0.0	0.0	0.0	0.0	0.0	8827.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2881|o  OFGB2881|f  FGB2881|g  GGB9185|s  GGB9185 SGB14124	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	540.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2897|o  OFGB2897|f  FGB2897|g  GGB9209|s  GGB9209 SGB14148	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1222.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2898|o  OFGB2898|f  FGB2898|g  GGB9210|s  GGB9210 SGB14149	0.0	0.0	0.0	0.0	0.0	0.0	50783.0	23939.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2898|o  OFGB2898|f  FGB2898|g  GGB9210|s  GGB9210 SGB14150	0.0	0.0	0.0	0.0	144438.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2898|o  OFGB2898|f  FGB2898|g  GGB9211|s  GGB9211 SGB14151	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9548.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2915|o  OFGB2915|f  FGB2915|g  GGB36267|s  GGB36267 SGB14177	0.0	0.0	0.0	0.0	0.0	0.0	45411.0	0.0	0.0	0.0	0.0	4621.0	0.0	0.0	911.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2918|o  OFGB2918|f  FGB2918|g  GGB9240|s  GGB9240 SGB14182	0.0	0.0	0.0	0.0	0.0	0.0	0.0	369.0	0.0	148.0	5095.0	60358.0	0.0	0.0	2672.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2954|o  OFGB2954|f  FGB2954|g  GGB9296|s  GGB9296 SGB14253	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13121.0	0.0	0.0	0.0	0.0	6815.0
+k  Bacteria|p  Firmicutes|c  CFGB2957|o  OFGB2957|f  FGB2957|g  GGB9299|s  GGB9299 SGB14259	0.0	0.0	0.0	0.0	2413.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2979|o  OFGB2979|f  FGB2979|g  GGB40351|s  GGB40351 SGB14301	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4302.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2982|o  OFGB2982|f  FGB2982|g  GGB9342|s  GGB9342 SGB14306	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	129956.0	0.0	0.0	0.0	954.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2983|o  OFGB2983|f  FGB2983|g  GGB9343|s  GGB9343 SGB14307	0.0	0.0	0.0	0.0	81285.0	0.0	0.0	12668.0	0.0	0.0	0.0	11645.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2985|o  OFGB2985|f  FGB2985|g  GGB9348|s  GGB9348 SGB14315	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13222.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2985|o  OFGB2985|f  FGB2985|g  GGB9349|s  GGB9349 SGB14316	0.0	0.0	0.0	0.0	20660.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB2985|o  OFGB2985|f  FGB2985|g  GGB9350|s  GGB9350 SGB14317	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	323.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3002|o  OFGB3002|f  FGB3002|g  GGB9463|s  GGB9463 SGB14855	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2665006.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3004|o  OFGB3004|f  FGB3004|g  GGB58158|s  GGB58158 SGB79798	0.0	0.0	0.0	0.0	26.0	0.0	555.0	0.0	562.0	0.0	745.0	0.0	987.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3009|o  OFGB3009|f  FGB3009|g  GGB31234|s  GGB31234 SGB14869	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1550.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3009|o  OFGB3009|f  FGB3009|g  GGB9474|s  GGB9474 SGB14868	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	800.0	0.0	2129.0	0.0	2357.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3012|o  OFGB3012|f  FGB3012|g  GGB9480|s  GGB9480 SGB14873	0.0	0.0	0.0	0.0	0.0	112296.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3012|o  OFGB3012|f  FGB3012|g  GGB9480|s  GGB9480 SGB14874	0.0	0.0	56643.0	136936.0	61924.0	0.0	391699.0	262011.0	0.0	0.0	0.0	0.0	401032.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3047|o  OFGB3047|f  FGB3047|g  GGB52130|s  GGB52130 SGB14966	0.0	95.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	960.0	0.0	0.0	0.0	0.0	2067.0	708.0
+k  Bacteria|p  Firmicutes|c  CFGB3048|o  OFGB3048|f  FGB3048|g  GGB9559|s  GGB9559 SGB69175	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7015.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3048|o  OFGB3048|f  FGB3048|g  GGB9561|s  GGB9561 SGB14972	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2435.0
+k  Bacteria|p  Firmicutes|c  CFGB3068|o  OFGB3068|f  FGB3068|g  GGB9760|s  GGB9760 SGB15373	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	24591.0	15565.0	0.0	17050.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3068|o  OFGB3068|f  FGB3068|g  GGB9760|s  GGB9760 SGB15374	16514.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3069|o  OFGB3069|f  FGB3069|g  GGB9770|s  GGB9770 SGB15389	0.0	0.0	0.0	0.0	0.0	0.0	459898.0	0.0	0.0	0.0	0.0	161655.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3069|o  OFGB3069|f  FGB3069|g  GGB9770|s  GGB9770 SGB15390	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7343.0	56877.0	0.0	0.0	0.0	1284.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3070|o  OFGB3070|f  FGB3070|g  GGB9512|s  GGB9512 SGB14909	11205.0	38805.0	0.0	21650.0	34903.0	20365.0	54210.0	75620.0	32432.0	6237.0	98028.0	85992.0	18786.0	0.0	29505.0	17671.0
+k  Bacteria|p  Firmicutes|c  CFGB3070|o  OFGB3070|f  FGB3070|g  GGB9775|s  GGB9775 SGB15395	0.0	0.0	0.0	0.0	22252.0	0.0	0.0	23804.0	0.0	2611.0	0.0	8337.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB320|o  OFGB320|f  FGB320|g  GGB741|s  GGB741 SGB955	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	28375.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB3529|o  OFGB3529|f  FGB3529|g  GGB3570|s  GGB3570 SGB4777	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1239.0	0.0	0.0	0.0	5875.0
+k  Bacteria|p  Firmicutes|c  CFGB38642|o  OFGB38642|f  FGB38642|g  GGB9758|s  GGB9758 SGB15368	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	332128.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB38642|o  OFGB38642|f  FGB38642|g  GGB9765|s  GGB9765 SGB15382	0.0	0.0	0.0	0.0	2349.0	0.0	43415.0	0.0	0.0	0.0	4081.0	29422.0	0.0	0.0	1044.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB38642|o  OFGB38642|f  FGB38642|g  GGB9766|s  GGB9766 SGB15383	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12142.0
+k  Bacteria|p  Firmicutes|c  CFGB40183|o  OFGB40183|f  FGB40183|g  GGB42389|s  GGB42389 SGB59559	0.0	0.0	828.0	0.0	6524.0	0.0	1230.0	2613.0	0.0	5801.0	1288.0	17.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB45503|o  OFGB45503|f  FGB45503|g  GGB9790|s  GGB9790 SGB15413	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	499.0
+k  Bacteria|p  Firmicutes|c  CFGB45507|o  OFGB45507|f  FGB45507|g  GGB52106|s  GGB52106 SGB72838	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6130.0
+k  Bacteria|p  Firmicutes|c  CFGB4806|o  OFGB4806|f  FGB4806|g  GGB51647|s  GGB51647 SGB4348	474130.0	920008.0	0.0	0.0	0.0	0.0	0.0	0.0	496892.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB4881|o  OFGB4881|f  FGB4881|g  GGB14025|s  GGB14025 SGB14906	0.0	0.0	4894.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB540|o  OFGB540|f  FGB540|g  GGB79998|s  GGB79998 SGB48024	2370.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB6261|o  OFGB6261|f  FGB6261|g  GGB74510|s  GGB74510 SGB47635	0.0	0.0	0.0	0.0	0.0	4515.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB72904|o  OFGB72904|f  FGB72904|g  GGB47150|s  GGB47150 SGB65079	0.0	0.0	0.0	0.0	10410.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB72924|o  OFGB72924|f  FGB72924|g  GGB3612|s  GGB3612 SGB4882	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	57631.0	21012.0
+k  Bacteria|p  Firmicutes|c  CFGB72926|o  OFGB72926|f  FGB72926|g  GGB3614|s  GGB3614 SGB4886	0.0	14590.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8255.0	122200.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75715|o  OFGB75715|f  FGB75715|g  GGB80003|s  GGB80003 SGB14846	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	23613.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75721|o  OFGB75721|f  FGB75721|g  GGB9524|s  GGB9524 SGB14923	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3125.0	40.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75783|o  OFGB75783|f  FGB75783|g  GGB3579|s  GGB3579 SGB47659	0.0	0.0	0.0	0.0	5737.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75783|o  OFGB75783|f  FGB75783|g  GGB79908|s  GGB79908 SGB47660	0.0	0.0	0.0	0.0	12768.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75916|o  OFGB75916|f  FGB75916|g  GGB2993|s  GGB2993 SGB3978	0.0	0.0	0.0	0.0	0.0	0.0	0.0	440.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75922|o  OFGB75922|f  FGB75922|g  GGB34900|s  GGB34900 SGB14891	0.0	0.0	0.0	0.0	0.0	555.0	354.0	3461.0	0.0	0.0	10930.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB75985|o  OFGB75985|f  FGB75985|g  GGB9523|s  GGB9523 SGB14922	0.0	0.0	0.0	0.0	0.0	0.0	480601.0	342847.0	0.0	0.0	12680.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76046|o  OFGB76046|f  FGB76046|g  GGB51510|s  GGB51510 SGB71883	0.0	0.0	0.0	0.0	0.0	270.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76101|o  OFGB76101|f  FGB76101|g  GGB3499|s  GGB3499 SGB4674	0.0	0.0	0.0	0.0	3982.0	0.0	0.0	0.0	12740.0	3713.0	0.0	0.0	0.0	0.0	16385.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76102|o  OFGB76102|f  FGB76102|g  GGB3548|s  GGB3548 SGB4744	0.0	0.0	0.0	0.0	0.0	0.0	16496.0	0.0	0.0	0.0	0.0	0.0	0.0	9196.0	1848.0	33931.0
+k  Bacteria|p  Firmicutes|c  CFGB76112|o  OFGB76112|f  FGB76112|g  GGB79630|s  GGB79630 SGB13983	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8737.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76158|o  OFGB76158|f  FGB76158|g  GGB52002|s  GGB52002 SGB72669	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6408.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76352|o  OFGB76352|f  FGB76352|g  GGB4571|s  GGB4571 SGB6317	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	191148.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76352|o  OFGB76352|f  FGB76352|g  GGB4593|s  GGB4593 SGB6353	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4109.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76388|o  OFGB76388|f  FGB76388|g  GGB9186|s  GGB9186 SGB14125	0.0	0.0	0.0	0.0	29064.0	0.0	0.0	0.0	0.0	144.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76428|o  OFGB76428|f  FGB76428|g  GGB9117|s  GGB9117 SGB14050	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5212.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76462|o  OFGB76462|f  FGB76462|g  GGB74802|s  GGB74802 SGB47402	0.0	0.0	0.0	0.0	169.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76465|o  OFGB76465|f  FGB76465|g  GGB80140|s  GGB80140 SGB15224	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3864.0
+k  Bacteria|p  Firmicutes|c  CFGB76779|o  OFGB76779|f  FGB76779|g  GGB45497|s  GGB45497 SGB63169	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4679.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76782|o  OFGB76782|f  FGB76782|g  GGB80009|s  GGB80009 SGB53574	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	549.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76783|o  OFGB76783|f  FGB76783|g  GGB80011|s  GGB80011 SGB15265	0.0	0.0	24912.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	848684.0	8950.0	0.0	0.0	0.0	21880.0
+k  Bacteria|p  Firmicutes|c  CFGB76783|o  OFGB76783|f  FGB76783|g  GGB80011|s  GGB80011 SGB15267	9244.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	33386.0	0.0	34144.0
+k  Bacteria|p  Firmicutes|c  CFGB76783|o  OFGB76783|f  FGB76783|g  GGB9695|s  GGB9695 SGB15209	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	396.0	173.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB76784|o  OFGB76784|f  FGB76784|g  GGB80012|s  GGB80012 SGB15001	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	840.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB8822|o  OFGB8822|f  FGB8822|g  GGB42994|s  GGB42994 SGB4746	0.0	7518.0	0.0	71636.0	9027.0	1207.0	0.0	0.0	16074.0	0.0	0.0	0.0	15172.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB9115|o  OFGB9115|f  FGB9115|g  GGB4617|s  GGB4617 SGB6392	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1398.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB9119|o  OFGB9119|f  FGB9119|g  GGB4651|s  GGB4651 SGB6438	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	706016.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB9238|o  OFGB9238|f  FGB9238|g  GGB74463|s  GGB74463 SGB54347	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3578.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB9583|o  OFGB9583|f  FGB9583|g  GGB3490|s  GGB3490 SGB4664	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8780.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB9718|o  OFGB9718|f  FGB9718|g  GGB3569|s  GGB3569 SGB4776	0.0	0.0	0.0	0.0	0.0	0.0	2175.0	0.0	0.0	0.0	167.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  CFGB9718|o  OFGB9718|f  FGB9718|g  GGB51441|s  GGB51441 SGB71759	0.0	2455.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1067.0	19096.0
+k  Bacteria|p  Firmicutes|c  CFGB9989|o  OFGB9989|f  FGB9989|g  GGB9712|s  GGB9712 SGB15244	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2147082.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Allobutyricicoccus|s  Candidatus Allobutyricicoccus pentlandensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26259.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Allochristensenella|s  Candidatus Allochristensenella caecavium	0.0	0.0	0.0	0.0	136.0	178.0	0.0	0.0	0.0	0.0	69.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Alloruminococcus|s  Candidatus Alloruminococcus vanvlietii	0.0	0.0	0.0	0.0	125.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Alloscillospira|s  Candidatus Alloscillospira gallinarum	0.0	0.0	0.0	0.0	0.0	0.0	170.0	604.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Aristotella|s  Candidatus Aristotella avistercoris	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	550.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Avimonas|s  Candidatus Avimonas narfia	0.0	0.0	66.0	0.0	12343.0	0.0	0.0	35175.0	0.0	871.0	5108.0	0.0	9027.0	0.0	2737.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Avispirillum|s  Candidatus Avispirillum faecium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	27.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Gallimonas|s  Candidatus Gallimonas faecavium	0.0	0.0	0.0	0.0	0.0	0.0	159.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Gallimonas|s  Candidatus Gallimonas faecium	0.0	0.0	0.0	0.0	0.0	0.0	3084.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Geddesella|s  Candidatus Geddesella stercoravicola	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	39033.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Metalachnospira|s  Candidatus Metalachnospira gallinarum	0.0	0.0	0.0	0.0	0.0	0.0	3372.0	2680.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Metaruminococcus|s  Candidatus Metaruminococcus caecorum	0.0	0.0	0.0	0.0	0.0	0.0	1665.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Metaruminococcus|s  Candidatus Metaruminococcus gallistercoris	0.0	0.0	0.0	0.0	1506.0	0.0	3991.0	1140.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Neoanaerotignum|s  Candidatus Neoanaerotignum tabaqchaliae	0.0	0.0	275.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Neochristensenella|s  Candidatus Neochristensenella gallicola	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13743.0	0.0	0.0	1648.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Parachristensenella|s  Candidatus Parachristensenella avicola	0.0	0.0	0.0	0.0	2523.0	0.0	6009.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Paralachnospira|s  Candidatus Paralachnospira caecorum	0.0	0.0	0.0	0.0	10579.0	0.0	0.0	659.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Pararuminococcus|s  Candidatus Pararuminococcus gallinarum	0.0	0.0	1014.0	2872.0	7494.0	331.0	0.0	0.0	0.0	1376.0	402.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Pseudobutyricicoccus|s  Candidatus Pseudobutyricicoccus lothianensis	0.0	0.0	0.0	0.0	0.0	0.0	388.0	0.0	0.0	0.0	9057.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Pseudolachnospira|s  Candidatus Pseudolachnospira avium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1256.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Pseudoruminococcus|s  Candidatus Pseudoruminococcus merdavium	0.0	0.0	0.0	0.0	0.0	0.0	111.0	0.0	0.0	0.0	0.0	728.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Roslinia|s  Candidatus Roslinia caecavium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2727.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Schneewindia|s  Candidatus Schneewindia gallinarum	0.0	0.0	316.0	762.0	9931.0	0.0	0.0	0.0	0.0	0.0	0.0	6354.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Timburyella|s  Candidatus Timburyella SGB14166	0.0	0.0	0.0	0.0	0.0	0.0	0.0	21476.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Woodwardibium|s  Candidatus Woodwardibium SGB14954	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4564.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Candidatus Woodwardibium|s  Candidatus Woodwardibium gallinarum	0.0	0.0	0.0	0.0	16741.0	0.0	74585.0	168993.0	0.0	0.0	12514.0	39164.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Clostridia unclassified|s  Clostridia bacterium	0.0	0.0	0.0	0.0	11443.0	0.0	0.0	0.0	3509.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Clostridia unclassified|s  Clostridia bacterium UC5 1 1D1	0.0	0.0	1818.0	0.0	0.0	542.0	0.0	0.0	0.0	0.0	0.0	0.0	317.0	75.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  Clostridia unclassified|s  Clostridia bacterium UC5 1 1E11	0.0	1240.0	7301.0	0.0	2589.0	8448.0	371.0	24616.0	1125.0	5908.0	39616.0	0.0	37073.0	465.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB2982|s  GGB2982 SGB3964	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	59.0	297.0	0.0	0.0	8077.0	793.0	10328.0	1730.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB33586|s  GGB33586 SGB53517	0.0	951.0	1098.0	0.0	948.0	1719.0	0.0	0.0	0.0	648.0	28063.0	1391.0	0.0	0.0	3899.0	2482.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB3363|s  GGB3363 SGB4448	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1564.0	0.0	0.0	0.0	23948.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB3365|s  GGB3365 SGB4451	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19399.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB3451|s  GGB3451 SGB4605	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17841.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB4716|s  GGB4716 SGB14929	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	587.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9528|s  GGB9528 SGB14928	0.0	0.0	0.0	0.0	0.0	0.0	1369.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9531|s  GGB9531 SGB14932	0.0	4034.0	0.0	0.0	52521.0	2206.0	117863.0	127508.0	0.0	0.0	0.0	3294.0	10069.0	0.0	2179.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9532|s  GGB9532 SGB14933	0.0	0.0	0.0	0.0	2014.0	0.0	0.0	0.0	0.0	0.0	1085.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9533|s  GGB9533 SGB14936	0.0	0.0	0.0	0.0	0.0	0.0	0.0	399.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9534|s  GGB9534 SGB14937	0.0	1037.0	0.0	13361.0	16364.0	0.0	3275.0	0.0	5277.0	0.0	7794.0	0.0	0.0	0.0	524.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9537|s  GGB9537 SGB14940	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	864.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9545|s  GGB9545 SGB14951	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	744.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9545|s  GGB9545 SGB14952	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5947.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridia unclassified|f  Clostridia unclassified|g  GGB9743|s  GGB9743 SGB15349	0.0	0.0	0.0	2204.0	0.0	0.0	0.0	0.0	0.0	0.0	1493.0	0.0	0.0	0.0	10504.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridiales|f  Clostridiales unclassified|g  Lawsonibacter|s  Lawsonibacter asaccharolyticus	28595.0	3603.0	10981.0	24529.0	25969.0	2355.0	1806.0	0.0	15179.0	7077.0	18516.0	351.0	498.0	1294.0	6715.0	8604.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Clostridiales|f  Ruminococcaceae|g  Candidatus Cibionibacter|s  Candidatus Cibionibacter quicibialis	18416.0	77013.0	167846.0	0.0	0.0	0.0	0.0	0.0	36104.0	12978.0	302294.0	53438.0	80421.0	0.0	102458.0	13370.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Christensenellaceae|g  Christensenellaceae unclassified|s  Christensenellaceae bacterium NSJ 44	0.0	0.0	0.0	0.0	0.0	0.0	170.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Christensenellaceae|g  Christensenellaceae unclassified|s  Christensenellaceae bacterium NSJ 63	0.0	0.0	0.0	0.0	0.0	0.0	305.0	1340.0	0.0	0.0	0.0	0.0	825.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Christensenellaceae|g  Christensenella|s  Christensenella minuta	0.0	0.0	0.0	0.0	613.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Christensenellaceae|g  GGB2659|s  GGB2659 SGB3580	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	203.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Butyricicoccus|s  Butyricicoccus sp AM29 23AC	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	180.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium	8972.0	71234.0	23078.0	15043.0	9245.0	36587.0	1474.0	51.0	23907.0	1874.0	144037.0	95506.0	52234.0	14370.0	164772.0	23195.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium AF18 31LB	0.0	9340.0	0.0	0.0	0.0	0.0	0.0	0.0	3131.0	2580.0	0.0	3528.0	0.0	18446.0	5635.0	19311.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium H8	0.0	0.0	0.0	0.0	0.0	0.0	4347.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium Marseille Q3526	0.0	34.0	7626.0	0.0	2086.0	27576.0	6604.0	0.0	0.0	0.0	47553.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium Marseille Q4143	0.0	5315.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	582.0	0.0	0.0	3780.0	0.0	2921.0	14131.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium Marseille Q4145	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	210.0	1409.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium Marseille Q4149	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	79741.0	0.0	0.0	0.0	0.0	178015.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae bacterium NSJ 33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1286.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae unclassified SGB15090	1004319.0	0.0	470992.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	44319.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridiaceae unclassified|s  Clostridiaceae unclassified SGB4771	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12059.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium SGB4648	0.0	0.0	0.0	0.0	498.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	55221.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium SGB4750	3262.0	2479.0	0.0	0.0	0.0	1115.0	0.0	0.0	0.0	0.0	7613.0	0.0	0.0	639.0	4810.0	24690.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium SGB6179	0.0	0.0	0.0	0.0	0.0	0.0	844.0	0.0	0.0	0.0	0.0	771.0	0.0	0.0	10340.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium butyricum	0.0	0.0	0.0	2461.0	0.0	0.0	2193.0	1980.0	0.0	0.0	0.0	6158.0	8303.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium fessum	0.0	33810.0	0.0	0.0	0.0	0.0	0.0	0.0	12136.0	10087.0	0.0	5048.0	18827.0	33115.0	15595.0	44739.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium neonatale	0.0	0.0	0.0	0.0	7792.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp 1001270H 150608 G6	0.0	265752.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	50183.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp 1001270J 160509 D11	0.0	0.0	0.0	0.0	0.0	0.0	1343.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AF20 17LB	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2426.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AF27 2AA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8237.0	0.0	0.0	13627.0	0.0	15230.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AF34 10BH	2489.0	5082.0	827.0	0.0	17693.0	56263.0	0.0	0.0	122165.0	6960.0	0.0	75732.0	33503.0	2687.0	260835.0	117795.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AF34 13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	55960.0	0.0	0.0	0.0	75207.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AF36 4	0.0	123464.0	0.0	0.0	470.0	22332.0	0.0	1993.0	0.0	0.0	208280.0	44210.0	9807.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AM22 11AC	0.0	2169.0	11013.0	0.0	0.0	0.0	0.0	0.0	0.0	5674.0	0.0	474.0	3085.0	183353.0	2105.0	34436.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AM33 3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14166.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AM49 4BH	14613.0	68746.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	41937.0	16670.0	0.0	0.0	7792.0	53373.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp AT4	12086.0	1720.0	5931.0	140319.0	0.0	8344.0	0.0	0.0	14854.0	0.0	0.0	0.0	5481.0	47671.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp Marseille P3244	0.0	0.0	0.0	0.0	6855.0	0.0	0.0	0.0	0.0	0.0	2730.0	1366.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Clostridium|s  Clostridium sp NSJ 42	0.0	0.0	0.0	0.0	0.0	0.0	1847.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB3175|s  GGB3175 SGB4191	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	49909.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB3510|s  GGB3510 SGB4687	0.0	0.0	0.0	0.0	0.0	118.0	0.0	0.0	0.0	0.0	0.0	4100.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB3627|s  GGB3627 SGB4906	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6366.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB42639|s  GGB42639 SGB59836	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	567.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB4487|s  GGB4487 SGB6184	0.0	0.0	0.0	0.0	141639.0	0.0	0.0	3218.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB57353|s  GGB57353 SGB58537	0.0	0.0	0.0	0.0	1203.0	1804.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB9063|s  GGB9063 SGB13982	0.0	0.0	0.0	0.0	0.0	0.0	5137.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB9580|s  GGB9580 SGB14998	0.0	0.0	488.0	1352.0	2625.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  GGB9782|s  GGB9782 SGB15403	0.0	0.0	0.0	0.0	33761.0	0.0	32931.0	113290.0	0.0	0.0	32680.0	122064.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Hungatella|s  Hungatella hathewayi	10998.0	0.0	0.0	15783.0	10975.0	0.0	0.0	252395.0	0.0	0.0	3078.0	30444.0	24137.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Lactonifactor|s  Lactonifactor sp BIOML A6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4825.0	0.0	0.0	0.0	0.0	248.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Clostridiaceae|g  Massilioclostridium|s  Massilioclostridium coli	0.0	0.0	0.0	2375.0	0.0	0.0	0.0	0.0	627.0	0.0	0.0	0.0	4796.0	0.0	0.0	3340.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Anaerofustis|s  Anaerofustis stercorihominis	0.0	0.0	0.0	0.0	0.0	0.0	99.0	1672.0	0.0	0.0	4106.0	123.0	366.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacteriaceae unclassified|s  Eubacteriaceae bacterium	4150.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	34169.0	13218.0	1303.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacteriaceae unclassified|s  Eubacteriaceae bacterium CHKCI004	0.0	0.0	0.0	2382.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium SGB4671	0.0	0.0	0.0	0.0	0.0	5726.0	5458.0	12442.0	0.0	0.0	11949.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium SGB4961	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1026.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium SGB6276	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	203245.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium ramulus	91921.0	0.0	323.0	0.0	0.0	0.0	0.0	0.0	0.0	4499.0	22266.0	0.0	49916.0	0.0	34139.0	44948.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium sp AF16 48	0.0	4913.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium sp AF34 35BH	1148.0	99.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	59851.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  Eubacterium|s  Eubacterium ventriosum	0.0	13875.0	24155.0	0.0	0.0	30987.0	2531.0	0.0	0.0	30235.0	22250.0	0.0	440.0	0.0	35101.0	194203.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriaceae|g  GGB3504|s  GGB3504 SGB4680	0.0	0.0	0.0	0.0	0.0	0.0	29.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  Baileyella|s  Baileyella intestinalis	0.0	14836.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  Emergencia|s  Emergencia timonensis	0.0	0.0	0.0	3404.0	0.0	8716.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  Eubacteriales Family XIII Incertae Sedis unclassified|s  Clostridiales Family XIII bacterium BX16	0.0	1780.0	0.0	0.0	0.0	0.0	19940.0	0.0	0.0	833.0	6732.0	40506.0	22969.0	0.0	7393.0	8074.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  GGB2980|s  GGB2980 SGB3962	0.0	0.0	0.0	0.0	0.0	0.0	10808.0	26800.0	0.0	0.0	5248.0	10958.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  GGB2987|s  GGB2987 SGB3969	0.0	0.0	0.0	0.0	0.0	0.0	1402.0	1822.0	1306.0	0.0	3881.0	20810.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  GGB32387|s  GGB32387 SGB47381	0.0	0.0	1048.0	0.0	7493.0	0.0	0.0	65133.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  Mogibacterium|s  Mogibacterium sp BX12	0.0	1915.0	0.0	0.0	0.0	0.0	0.0	3821.0	0.0	0.0	807.0	2325.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales Family XIII Incertae Sedis|g  Mogibacterium|s  Mogibacterium sp NSJ 24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4182.0	7749.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Candidatus Soleaferrea|s  Candidatus Soleaferrea massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2811.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium	21600.0	2976.0	29911.0	58459.0	16253.0	67985.0	16106.0	922.0	12749.0	1571.0	11433.0	1780.0	53561.0	18542.0	0.0	2651.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium 1 7 47FAA	0.0	0.0	0.0	10108.0	0.0	562.0	0.0	0.0	0.0	0.0	0.0	0.0	774.0	0.0	0.0	1973.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium BX7	0.0	0.0	0.0	0.0	253.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium Choco116	34.0	0.0	0.0	0.0	0.0	0.0	0.0	10025.0	0.0	4742.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium KLE1615	3945.0	45596.0	13128.0	0.0	0.0	0.0	0.0	0.0	11074.0	18457.0	35253.0	30031.0	0.0	39024.0	49831.0	35474.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium Marseille P2846	0.0	0.0	0.0	0.0	32999.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium NSJ 32	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1945.0	0.0	0.0	5873.0	840.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Clostridiales bacterium VE202 01	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5034.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Eubacteriales unclassified SGB15145	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	358.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Eubacteriales unclassified SGB4861	0.0	0.0	0.0	0.0	0.0	18932.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Eubacteriales unclassified|s  Eubacteriales unclassified SGB71281	0.0	0.0	0.0	0.0	0.0	1351.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Evtepia|s  Evtepia gabavorous	0.0	0.0	0.0	0.0	6079.0	0.0	9975.0	6219.0	815.0	464.0	12552.0	26090.0	0.0	1492.0	12373.0	5081.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Fenollaria|s  Fenollaria massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5402.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  GGB3353|s  GGB3353 SGB4437	0.0	0.0	0.0	0.0	26.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  GGB9721|s  GGB9721 SGB15275	0.0	0.0	0.0	0.0	0.0	0.0	185670.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	176.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Gemmiger|s  Gemmiger SGB15295	0.0	0.0	74254.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2876.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Gemmiger|s  Gemmiger SGB15299	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	145769.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Gemmiger|s  Gemmiger SGB72777	0.0	0.0	0.0	0.0	9089.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Gemmiger|s  Gemmiger formicilis	459.0	14658.0	0.0	0.0	0.0	0.0	0.0	16386.0	0.0	42151.0	190078.0	0.0	13017.0	0.0	88002.0	85953.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Intestinimonas|s  Intestinimonas butyriciproducens	148.0	0.0	0.0	0.0	18084.0	21675.0	4186.0	4967.0	0.0	0.0	2843.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Intestinimonas|s  Intestinimonas gabonensis	0.0	0.0	0.0	0.0	1155.0	0.0	0.0	0.0	0.0	1019.0	0.0	0.0	0.0	0.0	0.0	1321.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Intestinimonas|s  Intestinimonas massiliensis	0.0	0.0	0.0	0.0	1047.0	0.0	0.0	21967.0	0.0	0.0	2199.0	622.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Lawsonibacter|s  Lawsonibacter sp NSJ 51	0.0	0.0	0.0	0.0	0.0	29683.0	12213.0	1190.0	0.0	0.0	5114.0	692.0	0.0	0.0	0.0	573.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Lawsonibacter|s  Lawsonibacter sp NSJ 52	0.0	0.0	1992.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5929.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Massilistercora|s  Massilistercora SGB71784	0.0	0.0	0.0	0.0	90406.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Eubacteriales unclassified|g  Massilistercora|s  Massilistercora timonensis	0.0	0.0	0.0	0.0	11010.0	0.0	0.0	0.0	0.0	0.0	20034.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerobutyricum|s  Anaerobutyricum hallii	0.0	82741.0	42421.0	0.0	0.0	0.0	0.0	0.0	0.0	31024.0	193595.0	0.0	385160.0	111520.0	8108.0	130019.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerobutyricum|s  Anaerobutyricum soehngenii	2392.0	8872.0	0.0	0.0	30271.0	77759.0	7837.0	139775.0	13488.0	35637.0	45737.0	188554.0	9098.0	0.0	45861.0	44950.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerosacchariphilus|s  Anaerosacchariphilus sp NSJ 68	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	752.0	880.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerostipes|s  Anaerostipes caccae	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1812.0	5165.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerostipes|s  Anaerostipes hadrus	310.0	31844.0	29442.0	13423.0	6769.0	0.0	15403.0	155581.0	14261.0	13549.0	3613.0	123315.0	510978.0	28526.0	56232.0	219622.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerotignum|s  Anaerotignum faecicola	0.0	43450.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	804.0	0.0	55277.0	806.0	5878.0	85850.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Anaerotignum|s  Anaerotignum lactatifermentans	0.0	0.0	0.0	0.0	0.0	22405.0	0.0	14099.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	38755.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia SGB4793	0.0	0.0	0.0	0.0	0.0	21290.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia SGB4815	0.0	0.0	294.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	321.0	0.0	2937.0	3249.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia argi	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17396.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia caecimuris	0.0	0.0	0.0	65736.0	21094.0	19612.0	15977.0	7088.0	14394.0	0.0	2128.0	0.0	29118.0	1298.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia faecis	4918.0	48363.0	13252.0	9242.0	18794.0	44680.0	1046.0	15570.0	1717.0	18027.0	10765.0	86555.0	20271.0	23351.0	24082.0	32083.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia glucerasea	0.0	0.0	0.0	79.0	0.0	0.0	0.0	0.0	0.0	0.0	21394.0	1685.0	0.0	0.0	78.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia hansenii	0.0	0.0	0.0	39333.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia hydrogenotrophica	0.0	0.0	0.0	1632.0	5780.0	0.0	0.0	0.0	0.0	0.0	13515.0	6716.0	27185.0	822.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia luti	558.0	0.0	5429.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia massiliensis	6694.0	9594.0	46975.0	0.0	0.0	119422.0	0.0	64880.0	41506.0	20996.0	28147.0	81042.0	105329.0	0.0	141763.0	60403.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia obeum	2839.0	30337.0	34685.0	8934.0	0.0	0.0	0.0	0.0	0.0	18286.0	0.0	49500.0	21974.0	0.0	135310.0	150038.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia producta	0.0	0.0	0.0	2947.0	0.0	20307.0	0.0	8250.0	662.0	0.0	1230.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia schinkii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13348.0	0.0	16102.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia sp An249	0.0	0.0	0.0	0.0	2842.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia sp An81	0.0	0.0	0.0	0.0	68.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia sp MSK 20 85	0.0	18800.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia sp Marseille P3087	0.0	188.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia sp OF03 15BH	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11157.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia stercoris	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2029.0	0.0	0.0	0.0	0.0	3911.0	40383.0	66527.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Blautia|s  Blautia wexlerae	9683.0	152926.0	45395.0	38186.0	2210.0	97273.0	0.0	37946.0	39454.0	94577.0	373140.0	313095.0	383601.0	81924.0	58337.0	350561.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Catenibacillus|s  Catenibacillus scindens	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	122.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Coprococcus|s  Coprococcus SGB4669	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	24988.0	0.0	0.0	0.0	6978.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Coprococcus|s  Coprococcus catus	362.0	7065.0	0.0	12344.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7791.0	30781.0	0.0	0.0	5670.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Coprococcus|s  Coprococcus comes	6046.0	13633.0	25249.0	0.0	17014.0	0.0	0.0	0.0	0.0	7034.0	0.0	113494.0	130106.0	54674.0	60653.0	82736.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Cuneatibacter|s  Cuneatibacter caecimuris	0.0	0.0	0.0	0.0	0.0	0.0	3855.0	1472.0	0.0	0.0	0.0	2825.0	453.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Dorea|s  Dorea formicigenerans	3120.0	27790.0	3490.0	0.0	0.0	0.0	0.0	0.0	0.0	2461.0	19227.0	45634.0	135591.0	0.0	31433.0	29541.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Dorea|s  Dorea longicatena	15093.0	29692.0	0.0	32.0	0.0	0.0	0.0	0.0	27495.0	19176.0	136670.0	256020.0	6770.0	0.0	0.0	40404.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Dorea|s  Dorea phocaeensis	1034.0	0.0	0.0	0.0	0.0	15825.0	0.0	0.0	0.0	0.0	0.0	0.0	44423.0	44184.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Dorea|s  Dorea sp AF24 7LB	0.0	0.0	4879.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	24791.0	0.0	0.0	12665.0	5634.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Dorea|s  Dorea sp AF36 15AT	0.0	3205.0	0.0	0.0	0.0	0.0	0.0	0.0	222.0	159.0	591.0	5556.0	17500.0	0.0	8584.0	2259.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Eisenbergiella|s  Eisenbergiella massiliensis	0.0	0.0	0.0	0.0	21192.0	22338.0	26551.0	0.0	0.0	0.0	0.0	0.0	198486.0	0.0	0.0	11956.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Eisenbergiella|s  Eisenbergiella tayi	0.0	0.0	0.0	0.0	0.0	1863.0	215.0	0.0	0.0	0.0	1234.0	9681.0	4358.0	0.0	0.0	8867.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Enterocloster|s  Enterocloster aldenensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1188.0	1022.0	0.0	0.0	0.0	0.0	1747.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Enterocloster|s  Enterocloster asparagiformis	0.0	0.0	0.0	0.0	0.0	0.0	285.0	0.0	324.0	0.0	0.0	0.0	2078.0	0.0	3080.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Enterocloster|s  Enterocloster bolteae	0.0	0.0	5417.0	96555.0	2324.0	2589.0	8680.0	1357.0	13064.0	0.0	11275.0	0.0	5626.0	10192.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Enterocloster|s  Enterocloster citroniae	4072.0	0.0	0.0	4335.0	1877.0	0.0	0.0	0.0	0.0	0.0	329.0	0.0	2070.0	452.0	0.0	658.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Enterocloster|s  Enterocloster clostridioformis	0.0	0.0	0.0	31798.0	0.0	0.0	0.0	9374.0	138.0	0.0	5083.0	0.0	0.0	6623.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Enterocloster|s  Enterocloster lavalensis	0.0	0.0	0.0	4035.0	0.0	3763.0	0.0	0.0	0.0	0.0	2946.0	0.0	0.0	5067.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Faecalicatena|s  Faecalicatena contorta	0.0	0.0	0.0	0.0	0.0	0.0	57.0	975.0	0.0	0.0	0.0	1701.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Faecalicatena|s  Faecalicatena fissicatena	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	423.0	0.0	0.0	16561.0	49571.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Faecalimonas|s  Faecalimonas umbilicata	0.0	0.0	0.0	55283.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2341.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Frisingicoccus|s  Frisingicoccus caecimuris	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3075.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Fusicatenibacter|s  Fusicatenibacter saccharivorans	8825.0	54788.0	43692.0	10181.0	0.0	63276.0	0.0	0.0	34538.0	35601.0	68477.0	1696.0	140507.0	59348.0	198178.0	93614.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3446|s  GGB3446 SGB4597	0.0	0.0	0.0	0.0	0.0	0.0	0.0	74.0	0.0	0.0	6858.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3463|s  GGB3463 SGB4621	0.0	0.0	0.0	0.0	0.0	0.0	0.0	18444.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3475|s  GGB3475 SGB4638	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	57471.0	0.0	0.0	0.0	17225.0	212768.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3534|s  GGB3534 SGB4722	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3400.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3537|s  GGB3537 SGB4727	0.0	0.0	0.0	0.0	490.0	0.0	3511.0	22370.0	0.0	0.0	9087.0	630.0	0.0	0.0	747.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3576|s  GGB3576 SGB4784	0.0	0.0	0.0	0.0	7729.0	0.0	6338.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3602|s  GGB3602 SGB4574	0.0	0.0	14950.0	7193.0	0.0	27529.0	0.0	0.0	0.0	847.0	0.0	0.0	0.0	0.0	30367.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3619|s  GGB3619 SGB4894	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7520.0	1752.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3653|s  GGB3653 SGB4964	0.0	16344.0	1381.0	0.0	106273.0	0.0	7380.0	7432.0	0.0	0.0	144660.0	41716.0	7866.0	403.0	194662.0	141527.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3664|s  GGB3664 SGB4976	0.0	0.0	0.0	0.0	0.0	0.0	6834.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3678|s  GGB3678 SGB4991	0.0	0.0	0.0	0.0	915.0	0.0	0.0	4628.0	0.0	0.0	203.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB3746|s  GGB3746 SGB5089	0.0	85712.0	0.0	0.0	5848.0	29494.0	0.0	2974.0	0.0	11106.0	0.0	0.0	0.0	45055.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB51139|s  GGB51139 SGB71360	0.0	0.0	0.0	0.0	6986.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB51269|s  GGB51269 SGB5062	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	120529.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB79384|s  GGB79384 SGB106011	0.0	0.0	0.0	0.0	2333.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB79634|s  GGB79634 SGB5832	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3727.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB79916|s  GGB79916 SGB4587	357.0	0.0	0.0	0.0	0.0	0.0	282670.0	0.0	0.0	0.0	0.0	0.0	2899.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB9086|s  GGB9086 SGB14014	0.0	0.0	0.0	0.0	0.0	0.0	11163.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  GGB9176|s  GGB9176 SGB14114	0.0	0.0	0.0	0.0	5105.0	0.0	0.0	0.0	0.0	0.0	0.0	2863.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnoclostridium|s  Clostridium scindens	0.0	0.0	0.0	63923.0	1249.0	3089.0	0.0	7491.0	0.0	0.0	0.0	0.0	0.0	869.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnoclostridium|s  Clostridium symbiosum	0.0	0.0	135.0	15247.0	0.0	0.0	273.0	1003.0	0.0	0.0	29673.0	4155.0	57604.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnoclostridium|s  Lachnoclostridium edouardi	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	101.0	0.0	0.0	0.0	0.0	0.0	99.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnoclostridium|s  Lachnoclostridium sp An131	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1046.0	0.0	0.0	1246.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnoclostridium|s  Lachnoclostridium sp An138	0.0	0.0	1556.0	0.0	0.0	0.0	0.0	3790.0	0.0	0.0	7735.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Eubacterium rectale	62933.0	368298.0	354852.0	573048.0	0.0	447683.0	1985.0	147464.0	416285.0	414210.0	874352.0	49512.0	281327.0	620925.0	181294.0	856223.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium	35.0	771.0	373.0	0.0	0.0	0.0	0.0	0.0	143.0	825.0	0.0	3328.0	0.0	0.0	18543.0	12110.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium AM48 27BH	8660.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4866.0	23875.0	34933.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium BX3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26830.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium Marseille Q4251	0.0	768.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	38.0	0.0	0.0	2953.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium NSJ 29	0.0	0.0	0.0	0.0	1578.0	0.0	0.0	0.0	0.0	0.0	1741.0	7954.0	3760.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium OF09 6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7247.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospiraceae unclassified|s  Lachnospiraceae bacterium UBA1818	0.0	0.0	0.0	0.0	35203.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospira|s  Lachnospira eligens	116909.0	12830.0	8351.0	45150.0	0.0	23134.0	0.0	0.0	221718.0	0.0	0.0	26183.0	371144.0	0.0	178110.0	493912.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospira|s  Lachnospira pectinoschiza	7344.0	0.0	22879.0	0.0	0.0	0.0	0.0	0.0	0.0	26227.0	115150.0	13503.0	0.0	0.0	162095.0	106581.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnospira|s  Lachnospira sp NSJ 43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	177950.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lachnotalea|s  Lachnotalea sp AF33 28	0.0	0.0	0.0	0.0	0.0	0.0	3071.0	2534.0	0.0	0.0	226.0	0.0	0.0	0.0	765.0	8276.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lacrimispora|s  Lacrimispora amygdalina	1162.0	8611.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1011.0	11267.0	0.0	0.0	4764.0	3498.0	14667.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lacrimispora|s  Lacrimispora celerecrescens	0.0	9329.0	1804.0	0.0	0.0	85540.0	0.0	0.0	0.0	2117.0	22185.0	0.0	71061.0	0.0	34365.0	36838.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Lacrimispora|s  Lacrimispora saccharolytica	0.0	0.0	0.0	16563.0	0.0	0.0	0.0	1980.0	624.0	0.0	0.0	0.0	0.0	346.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Marvinbryantia|s  Marvinbryantia formatexigens	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13308.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Mediterraneibacter SGB48424	0.0	0.0	0.0	0.0	3466.0	0.0	117805.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Mediterraneibacter butyricigenes	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6783.0	1056.0	0.0	34.0	1644.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Mediterraneibacter glycyrrhizinilyticus	0.0	0.0	0.0	2589.0	2214.0	2861.0	0.0	3634.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Mediterraneibacter massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	30.0	0.0	0.0	634.0	0.0	0.0	1319.0	92.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Ruminococcus gnavus	0.0	0.0	0.0	169693.0	6019.0	9538.0	0.0	507.0	8733.0	0.0	13798.0	2953.0	16028.0	5835.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Ruminococcus lactaris	0.0	119812.0	0.0	0.0	63990.0	14197.0	0.0	0.0	0.0	0.0	0.0	38246.0	0.0	0.0	0.0	119731.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Mediterraneibacter|s  Ruminococcus torques	10259.0	28668.0	135399.0	475483.0	56064.0	125688.0	118082.0	124306.0	36065.0	143592.0	449489.0	46511.0	608379.0	39240.0	86208.0	109325.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Merdimonas|s  Merdimonas faecis	0.0	0.0	0.0	0.0	0.0	0.0	5167.0	877.0	0.0	0.0	21006.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia faecis	97235.0	167276.0	24021.0	0.0	3547.0	0.0	0.0	10811.0	0.0	0.0	267510.0	0.0	0.0	62590.0	157423.0	213191.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia hominis	0.0	32188.0	3964.0	42274.0	0.0	0.0	0.0	28049.0	8149.0	2820.0	42060.0	21822.0	0.0	19709.0	134848.0	70674.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia intestinalis	0.0	97820.0	0.0	153861.0	49698.0	69981.0	0.0	0.0	176.0	80239.0	94846.0	1097.0	6719.0	0.0	51890.0	222535.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia inulinivorans	4914.0	74776.0	0.0	129916.0	0.0	0.0	0.0	0.0	60847.0	34454.0	32036.0	0.0	44468.0	4479.0	41813.0	76615.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia sp AF02 12	0.0	109166.0	0.0	0.0	1345.0	0.0	0.0	0.0	0.0	173132.0	0.0	0.0	1401.0	0.0	118462.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia sp AM16 25	0.0	41136.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	39571.0	0.0	18359.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia sp AM59 24XD	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1196.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Roseburia|s  Roseburia sp BX1005	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1121.0	68241.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Sellimonas|s  Sellimonas intestinalis	0.0	0.0	0.0	0.0	0.0	0.0	4294.0	24286.0	0.0	0.0	13275.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Tyzzerella|s  Tyzzerella nexilis	0.0	0.0	0.0	22566.0	7327.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1715.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Lachnospiraceae|g  Waltera|s  Waltera intestinalis	3946.0	102250.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	108941.0	205047.0	323.0	8591.0	2924.0	6459.0	124624.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Agathobaculum|s  Agathobaculum butyriciproducens	1056.0	4661.0	7815.0	0.0	0.0	0.0	0.0	0.0	2033.0	1105.0	24390.0	0.0	0.0	2476.0	21300.0	43305.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Anaerotruncus|s  Anaerotruncus colihominis	0.0	0.0	0.0	14906.0	0.0	3182.0	81.0	32355.0	0.0	0.0	1676.0	1006.0	7284.0	0.0	0.0	1580.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Anaerotruncus|s  Anaerotruncus massiliensis	0.0	0.0	0.0	0.0	46560.0	0.0	0.0	0.0	0.0	0.0	22288.0	0.0	0.0	0.0	2045.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Anaerotruncus|s  Anaerotruncus rubiinfantis	0.0	0.0	0.0	0.0	2441.0	0.0	1439.0	0.0	0.0	1472.0	809.0	0.0	0.0	0.0	724.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Angelakisella|s  Angelakisella massiliensis	0.0	0.0	0.0	0.0	12349.0	0.0	0.0	1087.0	0.0	250.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Bittarella|s  Bittarella massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	553.0	738.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Drancourtella|s  Drancourtella sp An57	0.0	0.0	0.0	0.0	0.0	0.0	0.0	42698.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Dysosmobacter|s  Dysosmobacter sp BX15	34773.0	13525.0	0.0	0.0	0.0	0.0	0.0	0.0	51797.0	104809.0	209602.0	721.0	0.0	46584.0	71235.0	129425.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Dysosmobacter|s  Dysosmobacter sp NSJ 60	3947.0	264.0	1180.0	24025.0	15460.0	1794.0	0.0	0.0	8874.0	0.0	2518.0	0.0	0.0	5961.0	2621.0	2287.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Dysosmobacter|s  Dysosmobacter welbionis	42474.0	14873.0	66829.0	60890.0	455896.0	161999.0	68447.0	24082.0	62619.0	21711.0	23168.0	11683.0	38874.0	8091.0	1603.0	46992.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Faecalibacterium|s  Faecalibacterium SGB15315	0.0	9631.0	51788.0	0.0	0.0	0.0	0.0	0.0	0.0	9711.0	64154.0	0.0	0.0	0.0	5953.0	6646.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Faecalibacterium|s  Faecalibacterium SGB15346	24190.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	61399.0	0.0	0.0	0.0	0.0	34582.0	4468.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Faecalibacterium|s  Faecalibacterium prausnitzii	121257.0	361398.0	0.0	0.0	0.0	0.0	6944.0	2264.0	259506.0	111869.0	83069.0	70109.0	46051.0	46572.0	352494.0	674533.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Flavonifractor|s  Flavonifractor plautii	5219.0	1719.0	11453.0	60490.0	7480.0	20142.0	2354.0	9184.0	39677.0	2647.0	13586.0	0.0	32991.0	4842.0	0.0	12516.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Flavonifractor|s  Flavonifractor sp An10	0.0	0.0	0.0	0.0	56065.0	0.0	0.0	64457.0	0.0	0.0	1179.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Flavonifractor|s  Flavonifractor sp An100	0.0	0.0	0.0	0.0	783.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Fournierella|s  Fournierella massiliensis	0.0	0.0	0.0	0.0	10799.0	1075.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB3167|s  GGB3167 SGB4181	0.0	0.0	0.0	0.0	0.0	0.0	0.0	302.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB32900|s  GGB32900 SGB53446	0.0	2124.0	0.0	0.0	644.0	0.0	4007.0	6660.0	0.0	0.0	6130.0	8569.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB33469|s  GGB33469 SGB15236	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1040.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB33928|s  GGB33928 SGB15225	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4858.0	0.0	0.0	0.0	0.0	1515.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB38744|s  GGB38744 SGB14842	0.0	0.0	92.0	0.0	3951.0	5635.0	3199.0	1225.0	0.0	0.0	2294.0	0.0	954.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB45600|s  GGB45600 SGB63312	0.0	0.0	0.0	0.0	200.0	0.0	0.0	8792.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB79118|s  GGB79118 SGB105839	0.0	0.0	0.0	0.0	0.0	1658.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9237|s  GGB9237 SGB14179	0.0	0.0	0.0	0.0	0.0	0.0	0.0	710.0	0.0	0.0	869.0	0.0	0.0	0.0	6732.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9452|s  GGB9452 SGB14843	0.0	0.0	0.0	0.0	19447.0	0.0	8951.0	0.0	0.0	0.0	0.0	9172.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9453|s  GGB9453 SGB14844	0.0	0.0	0.0	229.0	15832.0	0.0	10774.0	3687.0	0.0	0.0	16958.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9453|s  GGB9453 SGB14845	0.0	291.0	0.0	186.0	4822.0	0.0	6156.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9457|s  GGB9457 SGB14849	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1583.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9495|s  GGB9495 SGB14892	0.0	0.0	10846.0	0.0	0.0	0.0	0.0	422.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9611|s  GGB9611 SGB15045	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1151.0	182.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9614|s  GGB9614 SGB15049	3232.0	6005.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1772.0	0.0	0.0	0.0	0.0	268.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9616|s  GGB9616 SGB15051	3082.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9619|s  GGB9619 SGB15067	0.0	0.0	878.0	0.0	1223.0	0.0	0.0	0.0	0.0	5850.0	0.0	0.0	0.0	0.0	3297.0	11928.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9620|s  GGB9620 SGB15068	0.0	0.0	0.0	0.0	0.0	0.0	22239.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9621|s  GGB9621 SGB15073	0.0	2729.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8888.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9627|s  GGB9627 SGB15081	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19066.0	17557.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9634|s  GGB9634 SGB15093	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14560.0	0.0	0.0	0.0	0.0	43084.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9635|s  GGB9635 SGB15106	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26475.0	0.0	0.0	0.0	0.0	574.0	278492.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9640|s  GGB9640 SGB15115	0.0	5432.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9641|s  GGB9641 SGB15117	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17550.0	0.0	0.0	1583.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9646|s  GGB9646 SGB15123	0.0	0.0	0.0	0.0	2284.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14915.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9661|s  GGB9661 SGB15150	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12906.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9668|s  GGB9668 SGB15165	0.0	0.0	0.0	0.0	0.0	0.0	0.0	742.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9699|s  GGB9699 SGB15216	34.0	0.0	42820.0	0.0	0.0	0.0	0.0	0.0	0.0	6533.0	44996.0	273070.0	0.0	0.0	34205.0	23177.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9707|s  GGB9707 SGB15229	0.0	0.0	0.0	0.0	21360.0	0.0	0.0	0.0	0.0	688.0	1853.0	0.0	0.0	0.0	6534.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9708|s  GGB9708 SGB15233	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1751.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9708|s  GGB9708 SGB15234	0.0	30879.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	596216.0	230918.0	0.0	0.0	8624.0	17218.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9713|s  GGB9713 SGB15249	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4423.0	0.0	0.0	0.0	0.0	2433.0	3613.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9716|s  GGB9716 SGB15269	0.0	0.0	0.0	0.0	9874.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9719|s  GGB9719 SGB15272	0.0	0.0	2842.0	0.0	0.0	339.0	125452.0	34617.0	5228.0	0.0	0.0	0.0	68685.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9719|s  GGB9719 SGB15273	0.0	0.0	0.0	0.0	3950.0	0.0	0.0	29179.0	0.0	0.0	157939.0	3012.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9724|s  GGB9724 SGB15278	0.0	0.0	0.0	0.0	694573.0	0.0	0.0	47177.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  GGB9739|s  GGB9739 SGB15313	0.0	0.0	0.0	0.0	57360.0	190512.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Harryflintia|s  Harryflintia acetispora	0.0	0.0	0.0	0.0	1102.0	0.0	0.0	0.0	0.0	0.0	1740.0	0.0	0.0	0.0	531.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Hydrogeniiclostidium|s  Hydrogeniiclostidium mannosilyticum	0.0	0.0	0.0	0.0	0.0	129.0	1814.0	7786.0	189.0	0.0	0.0	1576.0	4876.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Hydrogenoanaerobacterium|s  Hydrogenoanaerobacterium saccharovorans	0.0	5643.0	10219.0	0.0	7746.0	1821.0	0.0	0.0	0.0	1756.0	0.0	0.0	0.0	3668.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Massiliimalia|s  Massiliimalia massiliensis	0.0	0.0	0.0	1174.0	0.0	0.0	0.0	0.0	0.0	0.0	11.0	1748.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Massiliimalia|s  Massiliimalia timonensis	0.0	218.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	663.0	1417.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Monoglobus|s  Monoglobus pectinilyticus	0.0	7228.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	253536.0	0.0	94807.0	0.0	108333.0	43707.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Neglectibacter|s  Neglectibacter timonensis	0.0	0.0	0.0	0.0	16496.0	60223.0	0.0	0.0	0.0	0.0	0.0	77980.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Neobittarella|s  Neobittarella massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1422.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillibacter|s  Oscillibacter SGB15077	0.0	0.0	33377.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillibacter|s  Oscillibacter sp ER4	117269.0	123861.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	22751.0	0.0	0.0	0.0	0.0	282611.0	136273.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillibacter|s  Oscillibacter valericigenes	0.0	0.0	685.0	0.0	0.0	0.0	0.0	28318.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Clostridium leptum	0.0	9307.0	8741.0	508.0	2540.0	150470.0	282.0	0.0	0.0	19084.0	7982.0	22391.0	6832.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Clostridium methylpentosum	0.0	0.0	0.0	0.0	293.0	0.0	637.0	0.0	0.0	0.0	1761.0	0.0	0.0	0.0	730.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Eubacterium siraeum	0.0	4597.0	0.0	0.0	254492.0	1351.0	42827.0	55833.0	39056.0	2915.0	214310.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Oscillospiraceae bacterium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	109530.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Oscillospiraceae bacterium BX1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5652.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Oscillospiraceae bacterium Marseille Q3528	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	906.0	669.0	0.0	0.0	2777.0	8290.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Ruminococcaceae bacterium D5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5589.0	0.0	0.0	36766.0	0.0	0.0	0.0	160.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Oscillospiraceae unclassified|s  Ruminococcaceae bacterium UBA1375	0.0	0.0	0.0	0.0	5316.0	0.0	0.0	4876.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Phocea|s  Phocea massiliensis	680.0	758.0	452.0	0.0	116.0	534.0	0.0	0.0	2259.0	0.0	0.0	0.0	0.0	336.0	2276.0	282.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Pseudoflavonifractor|s  Pseudoflavonifractor capillosus	0.0	0.0	0.0	0.0	678.0	0.0	0.0	0.0	0.0	169.0	0.0	0.0	0.0	0.0	384.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Pseudoflavonifractor|s  Pseudoflavonifractor sp An184	0.0	0.0	0.0	0.0	86944.0	0.0	0.0	40.0	0.0	0.0	3774.0	9223.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Pseudoruminococcus|s  Pseudoruminococcus massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	21991.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus SGB4421	19070.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus bicirculans	0.0	1120341.0	9872.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	521284.0	520891.0	0.0	0.0	61571.0	94256.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus bromii	25934.0	537059.0	153535.0	0.0	0.0	0.0	254741.0	0.0	0.0	0.0	517504.0	49.0	0.0	0.0	186665.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus callidus	0.0	35758.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	35868.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus gauvreauii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	107.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus sp AF13 28	0.0	0.0	17122.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus sp BSD2780120874 150323 B10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	298379.0	0.0	1510094.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruminococcus|s  Ruminococcus sp NSJ 13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6441.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Ruthenibacterium|s  Ruthenibacterium lactatiformans	2046.0	12179.0	9353.0	154557.0	125190.0	78354.0	109525.0	79906.0	2909.0	2245.0	21990.0	169865.0	47029.0	26197.0	26903.0	19735.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Solibaculum|s  Solibaculum mannosilyticum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	487.0	233.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Oscillospiraceae|g  Vescimonas|s  Vescimonas coprocola	0.0	103560.0	16451.0	47556.0	0.0	0.0	0.0	0.0	0.0	1109.0	35786.0	1052221.0	231984.0	40131.0	3227.0	26780.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Peptostreptococcaceae|g  GGB3265|s  GGB3265 SGB4314	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	796624.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Peptostreptococcaceae|g  GGB3444|s  GGB3444 SGB4594	0.0	0.0	0.0	0.0	0.0	0.0	12638.0	687.0	0.0	0.0	103.0	0.0	431.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Peptostreptococcaceae|g  Intestinibacter|s  Intestinibacter bartlettii	0.0	7780.0	0.0	0.0	0.0	0.0	60840.0	0.0	0.0	2729.0	2823.0	6600.0	5134.0	0.0	1295.0	0.0
+k  Bacteria|p  Firmicutes|c  Clostridia|o  Eubacteriales|f  Peptostreptococcaceae|g  Romboutsia|s  Romboutsia timonensis	0.0	3695.0	0.0	0.0	0.0	252.0	4391.0	11468.0	1072.0	0.0	49.0	0.0	0.0	0.0	7105.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Coprobacillaceae|g  Catenibacterium|s  Catenibacterium SGB4425	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7693.0	0.0	9145.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Coprobacillaceae|g  Coprobacillus|s  Coprobacillus SGB6753	0.0	0.0	0.0	9198.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26389.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Coprobacillaceae|g  Coprobacillus|s  Coprobacillus cateniformis	0.0	0.0	0.0	2306.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	103943.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Amedibacillus|s  Amedibacillus dolichus	0.0	0.0	238.0	173.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Catenibacterium|s  Candidatus Catenibacterium tridentinum	53612.0	80370.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Dielma|s  Dielma fastidiosa	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	79.0	1882.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Erysipelatoclostridium|s  Clostridium spiroforme	0.0	0.0	0.0	0.0	0.0	10960.0	0.0	19219.0	0.0	0.0	19213.0	0.0	183879.0	0.0	0.0	3721.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Erysipelatoclostridium|s  Erysipelatoclostridium ramosum	0.0	0.0	0.0	4691.0	0.0	4761.0	17432.0	4962.0	0.0	0.0	0.0	270389.0	60621.0	0.0	212.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Faecalibacillus|s  Faecalibacillus faecis	0.0	0.0	0.0	0.0	0.0	0.0	1246.0	0.0	0.0	0.0	79305.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Faecalibacillus|s  Faecalibacillus intestinalis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1839.0	0.0	0.0	0.0	0.0	1105.0	88637.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Faecalicoccus|s  Faecalicoccus SGB6321	0.0	0.0	0.0	0.0	209950.0	0.0	0.0	0.0	0.0	34389.0	0.0	0.0	0.0	0.0	112691.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Faecalitalea|s  Faecalitalea cylindroides	0.0	0.0	0.0	0.0	309368.0	0.0	0.0	0.0	0.0	1239.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Holdemanella|s  Holdemanella biformis	0.0	0.0	0.0	0.0	0.0	128662.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Holdemanella|s  Holdemanella porci	9558.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Holdemania|s  Holdemania filiformis	0.0	0.0	0.0	0.0	9729.0	0.0	0.0	0.0	0.0	0.0	11720.0	47.0	0.0	1938.0	4301.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Holdemania|s  Holdemania massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	915.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Holdemania|s  Holdemania sp 1001095H 141210 F2	0.0	0.0	0.0	0.0	0.0	660.0	0.0	4772.0	0.0	0.0	0.0	608.0	8116.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Longibaculum|s  Longibaculum muris	0.0	0.0	0.0	0.0	14010.0	14625.0	0.0	0.0	21997.0	0.0	0.0	0.0	5124.0	5842.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Longicatena|s  Longicatena caecimuris	0.0	0.0	0.0	427.0	8059.0	2373.0	0.0	0.0	0.0	0.0	82019.0	0.0	37288.0	2612.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Massilicoli|s  Massilicoli timonensis	0.0	0.0	0.0	0.0	1511.0	0.0	1190.0	5680.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Massilimicrobiota|s  Massilimicrobiota sp An134	0.0	0.0	4010.0	0.0	0.0	2178.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Erysipelotrichia|o  Erysipelotrichales|f  Erysipelotrichaceae|g  Massilimicrobiota|s  Massilimicrobiota timonensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	211757.0	0.0	0.0	0.0	10463.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Firmicutes unclassified|o  Firmicutes unclassified|f  Firmicutes unclassified|g  Firmicutes unclassified|s  Firmicutes bacterium AF16 15	449.0	88791.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15179.0	0.0	12757.0	4450.0	0.0	69681.0	119215.0
+k  Bacteria|p  Firmicutes|c  Firmicutes unclassified|o  Firmicutes unclassified|f  Firmicutes unclassified|g  Negativibacillus|s  Negativibacillus massiliensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	52865.0	0.0	0.0	0.0	0.0	0.0	0.0	25310.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Acidaminococcales|f  Acidaminococcaceae|g  Acidaminococcus|s  Acidaminococcus intestini	383122.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14227.0	0.0	0.0	0.0	136709.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Acidaminococcales|f  Acidaminococcaceae|g  Phascolarctobacterium|s  Phascolarctobacterium SGB4573	0.0	948.0	0.0	0.0	111417.0	8847.0	20204.0	47855.0	0.0	0.0	0.0	0.0	888.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Acidaminococcales|f  Acidaminococcaceae|g  Phascolarctobacterium|s  Phascolarctobacterium faecium	0.0	0.0	0.0	263516.0	206442.0	56236.0	99286.0	0.0	62496.0	0.0	0.0	0.0	37535.0	56323.0	147534.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Selenomonadales|f  Selenomonadaceae|g  GGB1517|s  GGB1517 SGB14930	0.0	0.0	16024.0	0.0	4348.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Selenomonadales|f  Selenomonadaceae|g  GGB79734|s  GGB79734 SGB15291	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4034.0	0.0	225.0	0.0	0.0	0.0	22065.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Selenomonadales|f  Selenomonadaceae|g  Megamonas|s  Megamonas funiformis	4380.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Allisonella|s  Allisonella histaminiformans	1318.0	3650.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Dialister|s  Dialister hominis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	31964.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Dialister|s  Dialister invisus	0.0	0.0	51187.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	283228.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Megasphaera|s  Megasphaera massiliensis	0.0	0.0	36069.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	64073.0	0.0	8925.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Megasphaera|s  Megasphaera sp MJR8396C	80241.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Veillonella|s  Veillonella atypica	4833.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Veillonella|s  Veillonella dispar	3180.0	23635.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Negativicutes|o  Veillonellales|f  Veillonellaceae|g  Veillonella|s  Veillonella parvula	0.0	3519.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Tissierellia|o  Tissierellales|f  Peptoniphilaceae|g  Anaerococcus|s  Anaerococcus SGB53821	10108.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Firmicutes|c  Tissierellia|o  Tissierellales|f  Peptoniphilaceae|g  Parvimonas|s  Parvimonas parva	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1560.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Fusobacteria|c  CFGB76370|o  OFGB76370|f  FGB76370|g  GGB79751|s  GGB79751 SGB6028	145519.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Lentisphaerae|c  Lentisphaeria|o  Victivallales|f  Victivallaceae|g  Victivallis|s  Victivallis lenta	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3398.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Alphaproteobacteria|o  Hyphomicrobiales|f  Brucellaceae|g  GGB15850|s  GGB15850 SGB5785	0.0	64677.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	78438.0	0.0	16037.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Alphaproteobacteria|o  Hyphomicrobiales|f  Methylobacteriaceae|g  Methylobacterium|s  Methylobacterium SGB15164	0.0	0.0	1075.0	1886.0	11079.0	6685.0	6547.0	0.0	4560.0	0.0	0.0	0.0	0.0	0.0	5145.0	561.0
+k  Bacteria|p  Proteobacteria|c  Alphaproteobacteria|o  Rhodobacterales|f  Rhodobacteraceae|g  GGB16040|s  GGB16040 SGB9347	0.0	0.0	0.0	0.0	32054.0	0.0	0.0	0.0	0.0	0.0	5480.0	0.0	0.0	12491.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Alphaproteobacteria|o  Sphingomonadales|f  Sphingomonadaceae|g  GGB9759|s  GGB9759 SGB15370	0.0	0.0	0.0	0.0	0.0	0.0	0.0	49242.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15635.0
+k  Bacteria|p  Proteobacteria|c  Alphaproteobacteria|o  Sphingomonadales|f  Sphingomonadaceae|g  Sphingomonas|s  Sphingomonas SGB63305	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11326.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Alcaligenaceae|g  GGB3677|s  GGB3677 SGB4990	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	202.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Oxalobacteraceae|g  Oxalobacter|s  Oxalobacter formigenes	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	58968.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  Dakarella|s  Dakarella SGB14198	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1095.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  GGB6574|s  GGB6574 SGB9290	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	32928.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  Parasutterella|s  Parasutterella SGB9260	0.0	0.0	0.0	0.0	69530.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	28375.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  Parasutterella|s  Parasutterella excrementihominis	3941.0	0.0	0.0	0.0	0.0	0.0	0.0	1080.0	0.0	0.0	46368.0	3103.0	330.0	1913.0	0.0	170.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  Sutterella|s  Sutterella sp AM11 39	0.0	89489.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  Sutterella|s  Sutterella wadsworthensis	54795.0	0.0	19461.0	0.0	4328.0	0.0	0.0	0.0	0.0	271.0	0.0	0.0	11689.0	41910.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Betaproteobacteria|o  Burkholderiales|f  Sutterellaceae|g  Turicimonas|s  Turicimonas muris	0.0	30878.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  CFGB13104|o  OFGB13104|f  FGB13104|g  GGB6612|s  GGB6612 SGB9346	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	21460.0	0.0
+k  Bacteria|p  Proteobacteria|c  CFGB2403|o  OFGB2403|f  FGB2403|g  GGB6601|s  GGB6601 SGB9333	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	41798.0	0.0
+k  Bacteria|p  Proteobacteria|c  CFGB2830|o  OFGB2830|f  FGB2830|g  GGB6569|s  GGB6569 SGB9281	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	91600.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Bilophila|s  Bilophila SGB15450	0.0	0.0	0.0	42005.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Bilophila|s  Bilophila wadsworthia	26150.0	0.0	11120.0	0.0	0.0	0.0	26178.0	0.0	0.0	0.0	59433.0	0.0	0.0	0.0	1493.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Desulfovibrio|s  Desulfovibrio SGB5076	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2660.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Desulfovibrio|s  Desulfovibrio SGB5077	87.0	432618.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	56584.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Desulfovibrio|s  Desulfovibrio desulfuricans	0.0	0.0	0.0	0.0	0.0	0.0	0.0	380.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Desulfovibrio|s  Desulfovibrio fairfieldensis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	30536.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Desulfovibrio|s  Desulfovibrio piger	0.0	0.0	0.0	0.0	0.0	0.0	16074.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  Desulfovibrio|s  Desulfovibrio sp An276	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	27232.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Deltaproteobacteria|o  Desulfovibrionales|f  Desulfovibrionaceae|g  GGB9818|s  GGB9818 SGB15459	0.0	0.0	0.0	0.0	7907.0	0.0	0.0	0.0	0.0	0.0	6132.0	0.0	0.0	0.0	1747.0	0.0
+k  Bacteria|p  Proteobacteria|c  Epsilonproteobacteria|o  Campylobacterales|f  Campylobacteraceae|g  GGB1392|s  GGB1392 SGB1913	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	43818.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Epsilonproteobacteria|o  Campylobacterales|f  Helicobacteraceae|g  GGB9575|s  GGB9575 SGB14988	0.0	0.0	0.0	0.0	0.0	68.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Aeromonadales|f  Aeromonadaceae|g  GGB9781|s  GGB9781 SGB15402	0.0	0.0	0.0	0.0	1674.0	0.0	3707.0	27376.0	0.0	0.0	690.0	3316.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Aeromonadales|f  Aeromonadaceae|g  GGB9781|s  GGB9781 SGB66170	0.0	0.0	0.0	0.0	5469.0	0.0	11948.0	21833.0	0.0	0.0	2847.0	4941.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Chromatiales|f  Chromatiaceae|g  Rheinheimera|s  Rheinheimera SGB14999	1901.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1539.0	0.0	5788.0	0.0	0.0	1542.0	4093.0	1467.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Enterobacterales|f  Enterobacteriaceae|g  Enterobacter|s  Enterobacter ludwigii	0.0	3138.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Enterobacterales|f  Enterobacteriaceae|g  Escherichia|s  Escherichia coli	0.0	2703.0	0.0	416056.0	0.0	0.0	603.0	10662.0	408.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Enterobacterales|f  Enterobacteriaceae|g  Klebsiella|s  Klebsiella variicola	0.0	0.0	0.0	0.0	0.0	0.0	647.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Moraxellales|f  Moraxellaceae|g  Acinetobacter|s  Acinetobacter SGB14792	0.0	7046.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Moraxellales|f  Moraxellaceae|g  GGB72452|s  GGB72452 SGB4052	0.0	2143.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Pasteurellales|f  Pasteurellaceae|g  Haemophilus|s  Haemophilus SGB47419	0.0	0.0	0.0	0.0	0.0	1138.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Proteobacteria|c  Gammaproteobacteria|o  Pasteurellales|f  Pasteurellaceae|g  Haemophilus|s  Haemophilus parainfluenzae	0.0	9971.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Synergistetes|c  Synergistia|o  Synergistales|f  Synergistaceae|g  GGB9469|s  GGB9469 SGB14863	0.0	0.0	0.0	0.0	0.0	0.0	9990.0	0.0	0.0	0.0	0.0	1836.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Tenericutes|c  CFGB1787|o  OFGB1787|f  FGB1787|g  GGB4745|s  GGB4745 SGB6570	0.0	0.0	0.0	0.0	0.0	0.0	140618.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Verrucomicrobia|c  Verrucomicrobiae|o  Verrucomicrobiales|f  Akkermansiaceae|g  Akkermansia|s  Akkermansia muciniphila	0.0	129889.0	0.0	0.0	0.0	130641.0	94826.0	5626.0	0.0	0.0	991222.0	0.0	245449.0	268754.0	60156.0	0.0
+k  Bacteria|p  Verrucomicrobia|c  Verrucomicrobiae|o  Verrucomicrobiales|f  Akkermansiaceae|g  Akkermansia|s  Akkermansia sp BIOML A40	0.0	0.0	0.0	0.0	194671.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k  Bacteria|p  Verrucomicrobia|c  Verrucomicrobiae|o  Verrucomicrobiales|f  Akkermansiaceae|g  Akkermansia|s  Akkermansia sp KLE1798	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	719734.0	0.0	0.0	0.0	0.0

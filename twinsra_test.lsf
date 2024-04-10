@@ -1,0 +1,14 @@
+#!/bin/bash
+#BSUB -q premium
+#BSUB -W 24:00
+#BSUB -J SparCC_twinsra_test
+#BSUB -P acc_clemej05a
+#BSUB -n 1
+#BSUB -R rusage[mem=250000]
+#BSUB -o %J.stdout
+#BSUB -eo %J.stderr
+#BSUB -L /bin/bash
+
+module load anaconda3;
+source activate SparCC-env;
+python General_Execution.py
